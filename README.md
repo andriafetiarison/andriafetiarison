@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fetiarison_" target="blank"><img src="https://img.shields.io/twitter/follow/fetiarison_?logo=twitter&style=for-the-badge" alt="fetiarison_" /></a> </p>
 
-- 🔭 I’m currently working on **a travel agency project, where I’m developing a seamless platform to book trips, explore destinations, and manage travel itineraries, using Spring Boot and ReactJS.**
+- 🔭 I’m currently working on **a travel agency project, where I’m developing a seamless platform to book trips, explore destinations, and manage travel itineraries, using Spring Boot and NextJS.**
 
 - 📫 How to reach me **iarison.michel@gmail.com**
 
