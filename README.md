@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fetiarison</h1>
-<h3 align="justify">A passionate fullstack developer with expertise in building dynamic and seamless user experiences, from frontend to backend</h3>
+<h1 align="left">Hi 👋, I'm Fetiarison</h1>
+<h4 align="justify">A passionate fullstack developer with expertise in building dynamic and seamless user experiences, from frontend to backend</h4>
 
 - 🔭 I’m currently working on **a travel agency project, where I’m developing a seamless platform to book trips, explore destinations, and manage travel itineraries, using Spring Boot and NextJS.**
 
