@@ -37,6 +37,3 @@
   <a href="https://kaggle.com/andriafetiarison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andriafetiarison" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/20593735/fetiarison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20593735/fetiarison" height="20" width="20" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriafetiarison&show_icons=true&locale=en&layout=compact" alt="andriafetiarison" /></p>
