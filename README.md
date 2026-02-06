@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Fetiarison</h1>
-<h4 align="justify">A passionate fullstack developer with expertise in building dynamic and seamless user experiences, from frontend to backend</h4>
+<h4 align="justify">Fullstack developer and AI/NLP researcher focused on end-to-end intelligent systems and modern user experiences.</h4>
 
-- 🔭 I’m currently working on **a travel agency project, where I’m developing a seamless platform to book trips, explore destinations, and manage travel itineraries, using Spring Boot and NextJS.**
+- 🔭 I’m currently **involved in an AI/NLP research project focused on building a full automatic text correction tool for the Malagasy language, aiming to support writing assistance and language preservation.**
 
-- 📫 How to reach me **iarison.michel@gmail.com**
+- 📫 How to reach me **fetiarison.andria@gmail.com**
 
 <h3 align="left">Languages:</h3>
 <p align="left">
